@@ -120,9 +120,9 @@ html,body{
     width: 45vw;
     height: 68vh;
     font-size: 3.7rem;
-    line-height: 4.5vh;
+    /*line-height: 4.5vh;*/
     color: white;
-    padding-top: 27vh;
+    padding-top: 25vh;
     text-align: center;
     /*兼容不同内核浏览器*/
     -webkit-box-sizing: border-box;
